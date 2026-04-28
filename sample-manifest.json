@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b25e505a-1289-405c-b7e9-6d91b4995db0",
+  "export_job_id": "e5604761-2c45-4990-b7b1-af95a1fffbe0",
   "id_short": 158478,
-  "published_at": "2026-04-21T19:05:51Z",
+  "published_at": "2026-04-28T19:18:36Z",
   "repo_name": "all-restaurants-in-lakeland-florida-us-sample-158478",
   "sample_asset_name": "beamstation_158478_restaurants-us-fl_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/158478/beamstation_158478_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_records": 20,
-  "sample_sha256": "067bcada6f847b0eab3cefa32e56f80995a35864a2b8fd107772c782d4c7ec60",
-  "sample_size_bytes": 81890,
-  "total_records": 200
+  "sample_records": 29,
+  "sample_sha256": "f8f6990348f712ba8c737100f9c645f12104108cdc5955078827b539d26b7025",
+  "sample_size_bytes": 120640,
+  "total_records": 293
 }
